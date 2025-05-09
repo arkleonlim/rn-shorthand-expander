@@ -6,7 +6,7 @@ function App() {
     <>
       <CssBaseline />
       <Container maxWidth="md" sx={{ pt: 4 }}>
-        <Typography variant="h4" component="h1" gutterBottom>
+        <Typography variant="h4" component="h1" textAlign="center" gutterBottom>
           Regex-Based RN Shorcuts Expander
         </Typography>
         <TextExpander />
