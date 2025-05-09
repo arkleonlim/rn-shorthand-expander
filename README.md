@@ -16,8 +16,6 @@ This application allows users to enter shorthand nursing notes (e.g., `Pt c/o SO
 
 ![Screenshot of App](public/images/rn-shorthand-expander.png)
 
-### Developed by **Arb Lim, RN, MS**
-
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
