@@ -23,5 +23,11 @@
   "URI": "upper respiratory infection",
   "UTI": "urinary tract infection",
   "Dx": "diagnosis",
-  "Tx": "treatment"
+  "Tx": "treatment",
+  "NC": "nasal cannula",
+  "RA": "room air",
+  "PO": "by mouth",
+  "x3": "to person, place, and time",
+  "MD": "medical doctor",
+  "PCP": "primary care provider"
 }
