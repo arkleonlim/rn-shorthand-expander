@@ -1,10 +1,27 @@
 {
-    "Pt": "Patient",
-    "c/o": "complains of",
-    "SOB": "shortness of breath",
-    "CP": "chest pain",
-    "N/V": "nausea and vomiting",
-    "HTN": "hypertension",
-    "DM": "diabetes mellitus"
-  }
-  
+  "Pt": "Patient",
+  "c/o": "complains of",
+  "SOB": "shortness of breath",
+  "CP": "chest pain",
+  "N/V": "nausea and vomiting",
+  "HTN": "hypertension",
+  "DM": "diabetes mellitus",
+  "HR": "heart rate",
+  "BP": "blood pressure",
+  "RR": "respiratory rate",
+  "O2": "oxygen",
+  "IV": "intravenous",
+  "IM": "intramuscular",
+  "PRN": "as needed",
+  "QD": "once daily",
+  "BID": "twice daily",
+  "TID": "three times daily",
+  "QID": "four times daily",
+  "QHS": "every bedtime",
+  "WNL": "within normal limits",
+  "NKA": "no known allergies",
+  "URI": "upper respiratory infection",
+  "UTI": "urinary tract infection",
+  "Dx": "diagnosis",
+  "Tx": "treatment"
+}
